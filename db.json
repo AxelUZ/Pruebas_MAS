@@ -24,19 +24,19 @@
 {
     "Autobus": [
         {
-            "index":0,
+            "index":3,
             "x": 0,
             "y": 0,
             "z": 0
         }, 
         {
-            "index":1,
+            "index":4,
             "x": 1,
             "y": 0,
             "z": 1
         },
         {
-            "index":2,
+            "index":5,
             "x": 2,
             "y": 0,
             "z": 2
